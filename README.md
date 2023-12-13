@@ -1,2 +1,3 @@
-# Real-Estate-App
-Buying  Selling Renting
+# Strapi application
+
+A quick description of your strapi application
